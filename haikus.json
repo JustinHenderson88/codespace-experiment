@@ -23,5 +23,10 @@
     {
         "text":"snow is still falling....whyyyyyy,\nis it time for apres yet?\nlet's do one more run..how does that sound?",
         "image":"Robotocat.jpeg"
+    }, 
+    {   
+        "text":"Hello, World",
+        "image": "snowtocat_final.jpg" 
+
     }
 ]
